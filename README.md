@@ -3,7 +3,7 @@
 Documents, code, and other resources relating to the 2017 ICT4D Data Jam
 
 
-Projects and resources related to the agriculture-themed hackathon cohosted by [aWhere](http://www.awhere.com/), [ICRISAT] (http://www.icrisat.org/), [GDA](http://globaldevelopmentanalytics.org/), [A-M-Z Group](http://www.a-m-z.com/) and the [ICT4D Conference](http://www.ict4dconference.org/).
+Projects and resources related to the agriculture-themed hackathon cohosted by [aWhere](http://www.awhere.com/), [ICRISAT](http://www.icrisat.org/), [GDA](http://globaldevelopmentanalytics.org/), [A-M-Z Group](http://www.a-m-z.com/) and the [ICT4D Conference](http://www.ict4dconference.org/).
 
 ##team_projects
 
