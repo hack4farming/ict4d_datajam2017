@@ -7,11 +7,11 @@ Projects and resources related to the agriculture-themed hackathon cohosted by [
 
 ##team_projects
 
-The team_projects folder contains the presentations given by all the participating Hack4Farming teams to the judges. Anyone interested in more details concerning a particular presentation should contact the organizers.
+The team_projects folder contains the presentations given by all the participating teams to the judges. Anyone interested in more details concerning a particular presentation should contact the organizers.
 
 ##code_outputs
 
-The code_outputs folder contains code created during the hackathon which coders chose to make publicly available. Hackers looking to add code should email it to the organizers or request to be added as a collaborator on this repository.
+The code_outputs folder contains code created during the data jam which coders chose to make publicly available. Hackers looking to add code should email it to the organizers or request to be added as a collaborator on this repository.
 
 ##Resources
 
