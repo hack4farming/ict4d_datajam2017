@@ -15,14 +15,4 @@ The code_outputs folder contains code created during the data jam which coders c
 
 ##Resources
 
-The resources kit for Hack4Farming was posted to the aWhere developer's portal, containing links to free or free-trial APIs, datasets, and software. The links should be continually accessible at that site, and will be added to in future events.
-
-To utilize IOTA software, please view the introductory video on [YouTube] (https://www.youtube.com/watch?v=xUHQ8-o6hyU&feature=youtu.be).
-
-IOTA has created a sandbox so that people can interact with IOTA without having to download any software.  The sandbox is hosted at http://sandbox.iotatoken.com/api. Please visit https://iota.readme.io/v1.0.1/docs for more information and documentation.
-
-To join the IOTA slack, visit http://slack.iotatoken.com/
-
-##Media
-
-Twitter coverage of the event can be found at [#hack4farming](https://twitter.com/hashtag/hack4farming). Previous and subsequent events also use this hashtag.
+The resources kit for Hack4Farming was posted to the aWhere [developer's portal](http://developer.awhere.com/hack4farming), containing links to free or free-trial APIs, datasets, and software. The links should be continually accessible at that site, and will be added to in future events.
